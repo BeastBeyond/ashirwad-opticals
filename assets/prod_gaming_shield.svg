@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <defs>
+    <linearGradient id="amberGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#d97706" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <!-- Gunnar Gaming Shield Amber Lenses -->
+  <rect x="12" y="14" width="36" height="32" rx="5" fill="url(#amberGlow)" stroke="#1e293b" stroke-width="3"/>
+  <rect x="72" y="14" width="36" height="32" rx="5" fill="url(#amberGlow)" stroke="#1e293b" stroke-width="3"/>
+  <!-- Shield reflection -->
+  <path d="M16 20 L38 20" stroke="#fbbf24" stroke-width="1.5" opacity="0.75"/>
+  <path d="M76 20 L98 20" stroke="#fbbf24" stroke-width="1.5" opacity="0.75"/>
+  <path d="M48 22 Q60 19 72 22" stroke="#1e293b" stroke-width="3"/>
+  <path d="M12 20 L2 18" stroke="#1e293b" stroke-width="3"/>
+  <path d="M108 20 L118 18" stroke="#1e293b" stroke-width="3"/>
+</svg>

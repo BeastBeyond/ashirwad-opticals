@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke="#000042" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Geometric Hexagonal Eyeglasses -->
+  <path d="M18 16 L42 16 L50 28 L42 42 L18 42 L10 28 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M78 16 L102 16 L110 28 L102 42 L78 42 L70 28 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M50 28 Q60 25 70 28" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M10 28 L2 26" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M110 28 L118 26" stroke="#0f172a" stroke-width="2.6"/>
+</svg>

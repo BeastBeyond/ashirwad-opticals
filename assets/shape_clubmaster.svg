@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke="#000042" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Clubmaster Browline Eyeglasses -->
+  <!-- Upper thick brow -->
+  <path d="M12 18 Q32 14 48 18 L50 24 L10 24 Z" fill="#0f172a"/>
+  <path d="M72 18 Q88 14 108 18 L110 24 L70 24 Z" fill="#0f172a"/>
+  <!-- Lower thin metal rim -->
+  <path d="M12 24 Q14 42 30 42 Q46 42 48 24" stroke="#0f172a" stroke-width="2" fill="rgba(0,180,216,0.04)"/>
+  <path d="M72 24 Q74 42 90 42 Q106 42 108 24" stroke="#0f172a" stroke-width="2" fill="rgba(0,180,216,0.04)"/>
+  <!-- Bridge -->
+  <path d="M48 20 Q60 17 72 20" stroke="#0f172a" stroke-width="2.8"/>
+  <path d="M10 20 L2 18" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M110 20 L118 18" stroke="#0f172a" stroke-width="2.6"/>
+</svg>

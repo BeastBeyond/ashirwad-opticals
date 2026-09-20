@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kids Flexible Silicone Teal/Green Frame -->
+  <circle cx="31" cy="29" r="17" fill="rgba(16,185,129,0.06)" stroke="#059669" stroke-width="3.6"/>
+  <circle cx="89" cy="29" r="17" fill="rgba(16,185,129,0.06)" stroke="#059669" stroke-width="3.6"/>
+  <path d="M48 27 Q60 21 72 27" stroke="#059669" stroke-width="3.6"/>
+  <path d="M14 27 Q8 25 3 27" stroke="#10b981" stroke-width="3.6"/>
+  <path d="M106 27 Q112 25 117 27" stroke="#10b981" stroke-width="3.6"/>
+</svg>

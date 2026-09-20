@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke="#000042" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cateye Eyeglasses -->
+  <path d="M12 18 Q32 14 48 24 Q48 42 30 42 Q14 42 12 18 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="3"/>
+  <path d="M108 18 Q88 14 72 24 Q72 42 90 42 Q106 42 108 18 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="3"/>
+  <path d="M48 24 Q60 21 72 24" stroke="#0f172a" stroke-width="3"/>
+  <path d="M12 18 L2 16" stroke="#0f172a" stroke-width="3"/>
+  <path d="M108 18 L118 16" stroke="#0f172a" stroke-width="3"/>
+</svg>

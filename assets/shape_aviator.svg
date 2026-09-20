@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke="#000042" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Aviator Eyeglasses with Double Bridge -->
+  <path d="M14 18 Q32 14 48 18 Q50 38 32 44 Q14 38 14 18 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M106 18 Q88 14 72 18 Q70 38 88 44 Q106 38 106 18 Z" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="2.6"/>
+  <!-- Double Bridge -->
+  <path d="M46 16 L74 16" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M48 22 Q60 26 72 22" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M14 20 L4 18" stroke="#0f172a" stroke-width="2.6"/>
+  <path d="M106 20 L116 18" stroke="#0f172a" stroke-width="2.6"/>
+</svg>

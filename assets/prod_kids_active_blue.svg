@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kids Active Navy & Coral Frame -->
+  <rect x="12" y="15" width="36" height="28" rx="6" fill="rgba(37,99,235,0.06)" stroke="#2563eb" stroke-width="3.4"/>
+  <rect x="72" y="15" width="36" height="28" rx="6" fill="rgba(37,99,235,0.06)" stroke="#2563eb" stroke-width="3.4"/>
+  <path d="M48 23 Q60 20 72 23" stroke="#2563eb" stroke-width="3.4"/>
+  <path d="M12 21 L3 19" stroke="#ef4444" stroke-width="3.6"/>
+  <path d="M108 21 L117 19" stroke="#ef4444" stroke-width="3.6"/>
+</svg>

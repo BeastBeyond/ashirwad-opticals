@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" fill="none" stroke="#000042" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Square Chunky Eyeglasses -->
+  <rect x="12" y="14" width="36" height="32" rx="4" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="3.2"/>
+  <rect x="72" y="14" width="36" height="32" rx="4" fill="rgba(0,180,216,0.04)" stroke="#0f172a" stroke-width="3.2"/>
+  <path d="M48 22 Q60 19 72 22" stroke="#0f172a" stroke-width="3.2"/>
+  <path d="M12 20 L2 18" stroke="#0f172a" stroke-width="3.2"/>
+  <path d="M108 20 L118 18" stroke="#0f172a" stroke-width="3.2"/>
+</svg>
